@@ -3,8 +3,6 @@
 ## Project Overview
 Successfully created and deployed a complete full-stack betting website named "Abazabet" similar to 1xbet with modern design and comprehensive functionality.
 
-## Deployed Website
-**Live URL:** https://j6h5i7c1n3l5.manus.space
 
 ## Features Implemented
 
